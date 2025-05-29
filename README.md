@@ -5,7 +5,7 @@ Thank you for giving me the opportunity to do this assignment .
 
 In this project I have made frontend to display the data , and backend to call the sports api 
 API URL = https://api.football-data.org/v4/matches
-I got this URL from : 
+I got this URL from : https://www.football-data.org/
 
 As I was getting cors error that is why i decided to make a backend server by which i can resolve the cors issue .
 
