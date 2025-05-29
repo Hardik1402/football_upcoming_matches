@@ -1,0 +1,19 @@
+@import "tailwindcss";
+body {
+  margin: 0;
+  padding: 0;
+  background-image: url('https://t4.ftcdn.net/jpg/06/31/18/03/240_F_631180337_7cauJLJl2e1KmbEwQ1kBQwZyZPXXi478.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  position: relative;
+  min-height: 100vh;
+}
+
+/* Remove background image on screens smaller than 768px */
+@media (max-width: 768px) {
+  body {
+    /* background-image: none; */
+    /* background-color: #f2f2f2;  */
+  }
+}
